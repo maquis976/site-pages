@@ -1,0 +1,14 @@
+<!DOCTYPE html>                                      
+  <html lang="en">
+  <head>                                                                                          
+    <meta charset="UTF-8">
+    <title>Personal Gmail and Calendar Assistant</title>                                          
+  </head>                                               
+  <body>                                                                                          
+    <h1>Personal Gmail and Calendar Assistant</h1>
+    <p>This is a private personal-use application that integrates with                            
+    Google Gmail and Calendar on behalf of its sole user. It is not a 
+    commercial product or public service.</p>                                                     
+    <p><a href="privacy.html">Privacy Policy</a></p>                                              
+  </body>                                                                                         
+  </html>            
